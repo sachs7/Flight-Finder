@@ -4,5 +4,10 @@ Imagine you plan to travel to a different country but want to find a flight that
 
 The bot sends you an update every half an hour (can be adjusted) so that you never miss an opportunity to book a budget airline! 
 
+To install:
+- Clone this repo.
+- Run `pip3 install -r requirements.txt`
+- Run `python3 main.py`
+
 Slack Message:
 ![Sample Slack Message](https://github.com/sachs7/Flight-Finder/blob/master/Slack_Message_Example.png?raw=true "Slack Message")
