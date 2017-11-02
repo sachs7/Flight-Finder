@@ -1,6 +1,6 @@
 SITE_NAME = 'https://google.com/flights'
 
-FROM_PLACE = 'SFO
+FROM_PLACE = 'SFO'
 
 TO_PLACE = 'BLR'
 
