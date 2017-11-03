@@ -33,7 +33,7 @@ ENTER_DESTINATION_DEPARTURE_DATE = '//*[@id="root"]/div[3]/table/tbody/tr[2]/td/
 
 CLICK_FLEXIBLE_DATES = '/html/body/div[3]/div/div/div[1]/div[2]'
 
-BASE_PATH = '/Users/suplaonkar/Desktop/python_first_docker/flight_price_screenbot/'
+BASE_PATH = <PATH_WHERE_YOU_WANT_TO_SAVE_SCREENSHOT_AND_TEXT_FILE_TO>
 
 FLIGHT_DETAILS = '//*[@id="root"]/div[3]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/div/div/div[3]/div[1]/div/div[' \
                  '2]/div[2]/div[1]/div['
