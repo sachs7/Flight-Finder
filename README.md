@@ -17,4 +17,4 @@ Slack Message:
 ![Sample Slack Message](https://github.com/sachs7/Flight-Finder/blob/master/Slack_Message_Example.png?raw=true "Slack Message")
 
 CommandLine:
-![CommandLine Table](https://github.com/sachs7/Flight-Finder/blob/master/Flight_Details_CMD_line.png?raw=true "Flight_Details_CMD_line")
+![CommandLine Format]()
